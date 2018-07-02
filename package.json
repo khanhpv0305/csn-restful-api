@@ -1,0 +1,13 @@
+{
+  "name": "csn-restful-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "KhanhPV",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.17.5"
+  }
+}
